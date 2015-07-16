@@ -1,3 +1,2 @@
 # h5pirates.github.io
-百度前端技术学院暑期培训h5pirates团队介绍网站
-Update 2015-07-15
+百度前端技术学院 2015暑期训练营 H5Pirates 团队
